@@ -1,1 +1,1 @@
-myFirstGam
+myFirstGame
